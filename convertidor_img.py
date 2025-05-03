@@ -120,6 +120,6 @@ boton_convertir = tk.Button(
 )
 boton_convertir.pack(pady=20)
 
-ventana.iconbitmap("C:/xampp/htdocs/Python/logoconverter.ico")
+ventana.iconbitmap("logoconverter.ico")
 # Inicia el bucle principal
 ventana.mainloop()
